@@ -73,3 +73,7 @@ to this markdown file.
   - however, the exponential time complexity makes it impractical for larger inputs
 - While *Local Search* is faster, it may not always find the optimal solution
   - this may lead to suboptimal results for large problem sizes 
+### Plagiarism Statement: 
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+### Resources:
+- https://www.researchgate.net/publication/262341381_On_the_empirical_scaling_of_run-time_for_finding_optimal_solutions_to_the_travelling_salesman_problem
