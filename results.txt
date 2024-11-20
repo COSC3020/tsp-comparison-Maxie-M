@@ -1,0 +1,37 @@
+TSP Empirical Analysis
+------------------------
+Test Case #1
+{
+  HeldKarp: { result: 0, time: 0 },
+  LocalSearch: { result: 0, time: 0 }
+}
+
+Test Case #2
+{
+  HeldKarp: { result: 0, time: 0 },
+  LocalSearch: { result: 0, time: 0 }
+}
+
+Test Case #3
+{
+  HeldKarp: { result: 1, time: 0 },
+  LocalSearch: { result: 1, time: 0 }
+}
+
+Test Case #4
+{
+  HeldKarp: { result: 3, time: 0 },
+  LocalSearch: { result: 3, time: 0 }
+}
+
+Test Case #5
+{
+  HeldKarp: { result: 13, time: 0 },
+  LocalSearch: { result: 16, time: 1 }
+}
+
+Test Case #6
+{
+  HeldKarp: { result: 155, time: 27 },
+  LocalSearch: { result: 389, time: 0 }
+}
